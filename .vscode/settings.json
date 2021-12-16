@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.twig": "php",
+        "typeinfo": "cpp",
+        "system_error": "cpp",
+        "ostream": "cpp"
+    }
+}
